@@ -1,3 +1,3 @@
-# Test_Unity_Developer
+# Basis for a top-down shooter using pathfinding
 Версия Unity: 2019.4.16f1
-Тестовое задание.
+Выполнено в рамках тестового задания.
